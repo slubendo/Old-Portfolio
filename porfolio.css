@@ -138,10 +138,20 @@ a:visited {
     color: lightblue;
 }
 
-.navList {
+.navList a {
     color: lightblue
 }
 
+ul li a {
+    color: lightblue
+}
+ul li {
+    color: lightblue
+}
+
+a {
+    color: lightblue
+}
 /* Intro Section */
 
 #home {
@@ -264,9 +274,15 @@ footer {
 
 }
 
+.socialList a {
+    color: lightblue;
+}
+
 #icons {
     width: 150%;
     padding-left: 0px;
     color: lightblue;
 
 }
+
+
