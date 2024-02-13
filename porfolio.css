@@ -112,6 +112,12 @@ footer {
 
 
 /* Header */
+#top {
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    background-color: black; 
+}
 
 a:visited { 
     text-decoration: none; 
